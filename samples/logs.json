@@ -1,0 +1,4370 @@
+[
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户001",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "预订",
+    "household": "户002",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户003",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户005",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "借出",
+    "household": "户006",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户007",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户009",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "退出",
+    "household": "户010",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户011",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户013",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "预订",
+    "household": "户014",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户015",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户017",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "借出",
+    "household": "户018",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户019",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户021",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "退出",
+    "household": "户022",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户023",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户025",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "预订",
+    "household": "户026",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户027",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户029",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "借出",
+    "household": "户030",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户031",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户033",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "退出",
+    "household": "户034",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户035",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户037",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "预订",
+    "household": "户038",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户039",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户041",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "借出",
+    "household": "户042",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户043",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户045",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "退出",
+    "household": "户046",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户047",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户049",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "预订",
+    "household": "户050",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户051",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户053",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "借出",
+    "household": "户054",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户055",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户057",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "退出",
+    "household": "户058",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户059",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户061",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "预订",
+    "household": "户062",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户063",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户065",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "借出",
+    "household": "户066",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户067",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户069",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "退出",
+    "household": "户070",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户071",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户073",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "预订",
+    "household": "户074",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户075",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户077",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "借出",
+    "household": "户078",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户079",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户081",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "退出",
+    "household": "户082",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户083",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户085",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "预订",
+    "household": "户086",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户087",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户089",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "借出",
+    "household": "户090",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "续借",
+    "household": "户091",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "馆际代取",
+    "household": "户093",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "退出",
+    "household": "户094",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-01",
+    "kind": "归还",
+    "household": "户095",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-06-01"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "到架",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "到架",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "到架",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "调拨延后",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "到架",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "到架",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "到架",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "调拨延后",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户000",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "预订",
+    "household": "户001",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户002",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户004",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "借出",
+    "household": "户005",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户006",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户008",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "退出",
+    "household": "户009",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户010",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户012",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "预订",
+    "household": "户013",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户014",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户016",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "借出",
+    "household": "户017",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户018",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户020",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "退出",
+    "household": "户021",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户022",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户024",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "预订",
+    "household": "户025",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户026",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户028",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "借出",
+    "household": "户029",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户030",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户032",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "退出",
+    "household": "户033",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户034",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户036",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "预订",
+    "household": "户037",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户038",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户040",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "借出",
+    "household": "户041",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户042",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户044",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "退出",
+    "household": "户045",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户046",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户048",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "预订",
+    "household": "户049",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户050",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户052",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "借出",
+    "household": "户053",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户054",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户056",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "退出",
+    "household": "户057",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户058",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户060",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "预订",
+    "household": "户061",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户062",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户064",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "借出",
+    "household": "户065",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户066",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户068",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "退出",
+    "household": "户069",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户070",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户072",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "预订",
+    "household": "户073",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户074",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户076",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "借出",
+    "household": "户077",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户078",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户080",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "退出",
+    "household": "户081",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户082",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户084",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "预订",
+    "household": "户085",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户086",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户088",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "借出",
+    "household": "户089",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "续借",
+    "household": "户090",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "馆际代取",
+    "household": "户092",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "退出",
+    "household": "户093",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-08",
+    "kind": "归还",
+    "household": "户094",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-08"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "到架",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "到架",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "调拨延后",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "到架",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "到架",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "到架",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "调拨延后",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "到架",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "预订",
+    "household": "户000",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户001",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户003",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "借出",
+    "household": "户004",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户005",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户007",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "退出",
+    "household": "户008",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户009",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户011",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "预订",
+    "household": "户012",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户013",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户015",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "借出",
+    "household": "户016",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户017",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户019",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "退出",
+    "household": "户020",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户021",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户023",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "预订",
+    "household": "户024",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户025",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户027",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "借出",
+    "household": "户028",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户029",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户031",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "退出",
+    "household": "户032",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户033",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户035",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "预订",
+    "household": "户036",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户037",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户039",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "借出",
+    "household": "户040",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户041",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户043",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "退出",
+    "household": "户044",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户045",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户047",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "预订",
+    "household": "户048",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户049",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户051",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "借出",
+    "household": "户052",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户053",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户055",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "退出",
+    "household": "户056",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户057",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户059",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "预订",
+    "household": "户060",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户061",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户063",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "借出",
+    "household": "户064",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户065",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户067",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "退出",
+    "household": "户068",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户069",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户071",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "预订",
+    "household": "户072",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户073",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户075",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "借出",
+    "household": "户076",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户077",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户079",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "退出",
+    "household": "户080",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户081",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户083",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "预订",
+    "household": "户084",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户085",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户087",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "借出",
+    "household": "户088",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户089",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "馆际代取",
+    "household": "户091",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "退出",
+    "household": "户092",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "归还",
+    "household": "户093",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-15",
+    "kind": "续借",
+    "household": "户095",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-06-15"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "到架",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "调拨延后",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "到架",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "到架",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "到架",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "调拨延后",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "到架",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "到架",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户000",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户002",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "借出",
+    "household": "户003",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户004",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户006",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "退出",
+    "household": "户007",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户008",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户010",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "预订",
+    "household": "户011",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户012",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户014",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "借出",
+    "household": "户015",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户016",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户018",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "退出",
+    "household": "户019",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户020",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户022",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "预订",
+    "household": "户023",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户024",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户026",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "借出",
+    "household": "户027",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户028",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户030",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "退出",
+    "household": "户031",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户032",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户034",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "预订",
+    "household": "户035",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户036",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户038",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "借出",
+    "household": "户039",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户040",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户042",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "退出",
+    "household": "户043",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户044",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户046",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "预订",
+    "household": "户047",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户048",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户050",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "借出",
+    "household": "户051",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户052",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户054",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "退出",
+    "household": "户055",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户056",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户058",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "预订",
+    "household": "户059",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户060",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户062",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "借出",
+    "household": "户063",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户064",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户066",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "退出",
+    "household": "户067",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户068",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户070",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "预订",
+    "household": "户071",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户072",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户074",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "借出",
+    "household": "户075",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户076",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户078",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "退出",
+    "household": "户079",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户080",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户082",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "预订",
+    "household": "户083",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户084",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户086",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "借出",
+    "household": "户087",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户088",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "馆际代取",
+    "household": "户090",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "退出",
+    "household": "户091",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "归还",
+    "household": "户092",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "续借",
+    "household": "户094",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-22",
+    "kind": "预订",
+    "household": "户095",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-22"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "调拨延后",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "到架",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "到架",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "到架",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "调拨延后",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "到架",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "到架",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "到架",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户001",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "借出",
+    "household": "户002",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户003",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户005",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "退出",
+    "household": "户006",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户007",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户009",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "预订",
+    "household": "户010",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户011",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户013",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "借出",
+    "household": "户014",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户015",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户017",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "退出",
+    "household": "户018",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户019",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户021",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "预订",
+    "household": "户022",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户023",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户025",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "借出",
+    "household": "户026",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户027",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户029",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "退出",
+    "household": "户030",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户031",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户033",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "预订",
+    "household": "户034",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户035",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户037",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "借出",
+    "household": "户038",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户039",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户041",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "退出",
+    "household": "户042",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户043",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户045",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "预订",
+    "household": "户046",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户047",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户049",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "借出",
+    "household": "户050",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户051",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户053",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "退出",
+    "household": "户054",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户055",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户057",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "预订",
+    "household": "户058",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户059",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户061",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "借出",
+    "household": "户062",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户063",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户065",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "退出",
+    "household": "户066",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户067",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户069",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "预订",
+    "household": "户070",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户071",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户073",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "借出",
+    "household": "户074",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户075",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户077",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "退出",
+    "household": "户078",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户079",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户081",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "预订",
+    "household": "户082",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户083",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户085",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "借出",
+    "household": "户086",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户087",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户089",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "退出",
+    "household": "户090",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "归还",
+    "household": "户091",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "续借",
+    "household": "户093",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "预订",
+    "household": "户094",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-06-29",
+    "kind": "馆际代取",
+    "household": "户095",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-06-29"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "到架",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "到架",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "到架",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "调拨延后",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "到架",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "到架",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "到架",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "调拨延后",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户000",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "借出",
+    "household": "户001",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户002",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户004",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "退出",
+    "household": "户005",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户006",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户008",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "预订",
+    "household": "户009",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户010",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户012",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "借出",
+    "household": "户013",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户014",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户016",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "退出",
+    "household": "户017",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户018",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户020",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "预订",
+    "household": "户021",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户022",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户024",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "借出",
+    "household": "户025",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户026",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户028",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "退出",
+    "household": "户029",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户030",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户032",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "预订",
+    "household": "户033",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户034",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户036",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "借出",
+    "household": "户037",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户038",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户040",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "退出",
+    "household": "户041",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户042",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户044",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "预订",
+    "household": "户045",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户046",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户048",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "借出",
+    "household": "户049",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户050",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户052",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "退出",
+    "household": "户053",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户054",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户056",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "预订",
+    "household": "户057",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户058",
+    "branch": "北馆",
+    "copy": "副本26",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户060",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "借出",
+    "household": "户061",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户062",
+    "branch": "桥馆",
+    "copy": "副本22",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户064",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "退出",
+    "household": "户065",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户066",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户068",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "预订",
+    "household": "户069",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户070",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户072",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "借出",
+    "household": "户073",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户074",
+    "branch": "北馆",
+    "copy": "副本34",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户076",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "退出",
+    "household": "户077",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户078",
+    "branch": "桥馆",
+    "copy": "副本30",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户080",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "预订",
+    "household": "户081",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户082",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户084",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "借出",
+    "household": "户085",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户086",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户088",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "退出",
+    "household": "户089",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "归还",
+    "household": "户090",
+    "branch": "北馆",
+    "copy": "副本02",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "续借",
+    "household": "户092",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "预订",
+    "household": "户093",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-06",
+    "kind": "馆际代取",
+    "household": "户094",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-07-06"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "到架",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "到架",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "调拨延后",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "到架",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "到架",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "到架",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "调拨延后",
+    "branch": "桥馆",
+    "copy": "副本14",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "到架",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "借出",
+    "household": "户000",
+    "branch": "北馆",
+    "copy": "副本10",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户001",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户003",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "退出",
+    "household": "户004",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户005",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户007",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "预订",
+    "household": "户008",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户009",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户011",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "借出",
+    "household": "户012",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户013",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户015",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "退出",
+    "household": "户016",
+    "branch": "西馆",
+    "copy": "副本16",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户017",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户019",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "预订",
+    "household": "户020",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户021",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户023",
+    "branch": "园馆",
+    "copy": "副本39",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "借出",
+    "household": "户024",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户025",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户027",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "退出",
+    "household": "户028",
+    "branch": "桥馆",
+    "copy": "副本38",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户029",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户031",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "预订",
+    "household": "户032",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户033",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户035",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "借出",
+    "household": "户036",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户037",
+    "branch": "湾馆",
+    "copy": "副本29",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户039",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "退出",
+    "household": "户040",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户041",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户043",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "预订",
+    "household": "户044",
+    "branch": "河馆",
+    "copy": "副本04",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户045",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户047",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "借出",
+    "household": "户048",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户049",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户051",
+    "branch": "南馆",
+    "copy": "副本19",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "退出",
+    "household": "户052",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户053",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户055",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "预订",
+    "household": "户056",
+    "branch": "北馆",
+    "copy": "副本18",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户057",
+    "branch": "东馆",
+    "copy": "副本25",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户059",
+    "branch": "南馆",
+    "copy": "副本03",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "借出",
+    "household": "户060",
+    "branch": "河馆",
+    "copy": "副本12",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户061",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户063",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "退出",
+    "household": "户064",
+    "branch": "西馆",
+    "copy": "副本00",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户065",
+    "branch": "东馆",
+    "copy": "副本09",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户067",
+    "branch": "南馆",
+    "copy": "副本27",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "预订",
+    "household": "户068",
+    "branch": "河馆",
+    "copy": "副本36",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户069",
+    "branch": "湾馆",
+    "copy": "副本05",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户071",
+    "branch": "园馆",
+    "copy": "副本23",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "借出",
+    "household": "户072",
+    "branch": "西馆",
+    "copy": "副本24",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户073",
+    "branch": "东馆",
+    "copy": "副本33",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户075",
+    "branch": "南馆",
+    "copy": "副本11",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "退出",
+    "household": "户076",
+    "branch": "河馆",
+    "copy": "副本20",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户077",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户079",
+    "branch": "园馆",
+    "copy": "副本07",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "预订",
+    "household": "户080",
+    "branch": "西馆",
+    "copy": "副本08",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户081",
+    "branch": "东馆",
+    "copy": "副本17",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户083",
+    "branch": "南馆",
+    "copy": "副本35",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "借出",
+    "household": "户084",
+    "branch": "桥馆",
+    "copy": "副本06",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户085",
+    "branch": "湾馆",
+    "copy": "副本13",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户087",
+    "branch": "园馆",
+    "copy": "副本31",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "退出",
+    "household": "户088",
+    "branch": "西馆",
+    "copy": "副本32",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户089",
+    "branch": "东馆",
+    "copy": "副本01",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "续借",
+    "household": "户091",
+    "branch": "湾馆",
+    "copy": "副本21",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "预订",
+    "household": "户092",
+    "branch": "河馆",
+    "copy": "副本28",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "馆际代取",
+    "household": "户093",
+    "branch": "湾馆",
+    "copy": "副本37",
+    "receipt_week": "2026-07-13"
+  },
+  {
+    "week": "2026-07-13",
+    "kind": "归还",
+    "household": "户095",
+    "branch": "园馆",
+    "copy": "副本15",
+    "receipt_week": "2026-07-13"
+  }
+]

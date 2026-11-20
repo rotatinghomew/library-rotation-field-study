@@ -1,0 +1,54 @@
+[
+  {
+    "id": "联组0",
+    "branches": [
+      "西馆",
+      "东馆"
+    ],
+    "assigned_week": "2026-06-08",
+    "method": "轮转",
+    "eligible_neighbors": [
+      "北馆",
+      "南馆"
+    ]
+  },
+  {
+    "id": "联组1",
+    "branches": [
+      "北馆",
+      "南馆"
+    ],
+    "assigned_week": "2026-06-15",
+    "method": "展示位",
+    "eligible_neighbors": [
+      "河馆",
+      "湾馆"
+    ]
+  },
+  {
+    "id": "联组2",
+    "branches": [
+      "河馆",
+      "湾馆"
+    ],
+    "assigned_week": "2026-06-22",
+    "method": "轮转",
+    "eligible_neighbors": [
+      "桥馆",
+      "园馆"
+    ]
+  },
+  {
+    "id": "联组3",
+    "branches": [
+      "桥馆",
+      "园馆"
+    ],
+    "assigned_week": "2026-06-29",
+    "method": "展示位",
+    "eligible_neighbors": [
+      "西馆",
+      "东馆"
+    ]
+  }
+]

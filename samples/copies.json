@@ -1,0 +1,242 @@
+[
+  {
+    "id": "副本00",
+    "work": "作品0",
+    "branch": "西馆",
+    "restricted": true
+  },
+  {
+    "id": "副本01",
+    "work": "作品1",
+    "branch": "东馆",
+    "restricted": false
+  },
+  {
+    "id": "副本02",
+    "work": "作品2",
+    "branch": "北馆",
+    "restricted": false
+  },
+  {
+    "id": "副本03",
+    "work": "作品3",
+    "branch": "南馆",
+    "restricted": false
+  },
+  {
+    "id": "副本04",
+    "work": "作品4",
+    "branch": "河馆",
+    "restricted": false
+  },
+  {
+    "id": "副本05",
+    "work": "作品0",
+    "branch": "湾馆",
+    "restricted": true
+  },
+  {
+    "id": "副本06",
+    "work": "作品1",
+    "branch": "桥馆",
+    "restricted": false
+  },
+  {
+    "id": "副本07",
+    "work": "作品2",
+    "branch": "园馆",
+    "restricted": false
+  },
+  {
+    "id": "副本08",
+    "work": "作品3",
+    "branch": "西馆",
+    "restricted": false
+  },
+  {
+    "id": "副本09",
+    "work": "作品4",
+    "branch": "东馆",
+    "restricted": false
+  },
+  {
+    "id": "副本10",
+    "work": "作品0",
+    "branch": "北馆",
+    "restricted": true
+  },
+  {
+    "id": "副本11",
+    "work": "作品1",
+    "branch": "南馆",
+    "restricted": false
+  },
+  {
+    "id": "副本12",
+    "work": "作品2",
+    "branch": "河馆",
+    "restricted": false
+  },
+  {
+    "id": "副本13",
+    "work": "作品3",
+    "branch": "湾馆",
+    "restricted": false
+  },
+  {
+    "id": "副本14",
+    "work": "作品4",
+    "branch": "桥馆",
+    "restricted": false
+  },
+  {
+    "id": "副本15",
+    "work": "作品0",
+    "branch": "园馆",
+    "restricted": true
+  },
+  {
+    "id": "副本16",
+    "work": "作品1",
+    "branch": "西馆",
+    "restricted": false
+  },
+  {
+    "id": "副本17",
+    "work": "作品2",
+    "branch": "东馆",
+    "restricted": false
+  },
+  {
+    "id": "副本18",
+    "work": "作品3",
+    "branch": "北馆",
+    "restricted": false
+  },
+  {
+    "id": "副本19",
+    "work": "作品4",
+    "branch": "南馆",
+    "restricted": false
+  },
+  {
+    "id": "副本20",
+    "work": "作品0",
+    "branch": "河馆",
+    "restricted": true
+  },
+  {
+    "id": "副本21",
+    "work": "作品1",
+    "branch": "湾馆",
+    "restricted": false
+  },
+  {
+    "id": "副本22",
+    "work": "作品2",
+    "branch": "桥馆",
+    "restricted": false
+  },
+  {
+    "id": "副本23",
+    "work": "作品3",
+    "branch": "园馆",
+    "restricted": false
+  },
+  {
+    "id": "副本24",
+    "work": "作品4",
+    "branch": "西馆",
+    "restricted": false
+  },
+  {
+    "id": "副本25",
+    "work": "作品0",
+    "branch": "东馆",
+    "restricted": true
+  },
+  {
+    "id": "副本26",
+    "work": "作品1",
+    "branch": "北馆",
+    "restricted": false
+  },
+  {
+    "id": "副本27",
+    "work": "作品2",
+    "branch": "南馆",
+    "restricted": false
+  },
+  {
+    "id": "副本28",
+    "work": "作品3",
+    "branch": "河馆",
+    "restricted": false
+  },
+  {
+    "id": "副本29",
+    "work": "作品4",
+    "branch": "湾馆",
+    "restricted": false
+  },
+  {
+    "id": "副本30",
+    "work": "作品0",
+    "branch": "桥馆",
+    "restricted": true
+  },
+  {
+    "id": "副本31",
+    "work": "作品1",
+    "branch": "园馆",
+    "restricted": false
+  },
+  {
+    "id": "副本32",
+    "work": "作品2",
+    "branch": "西馆",
+    "restricted": false
+  },
+  {
+    "id": "副本33",
+    "work": "作品3",
+    "branch": "东馆",
+    "restricted": false
+  },
+  {
+    "id": "副本34",
+    "work": "作品4",
+    "branch": "北馆",
+    "restricted": false
+  },
+  {
+    "id": "副本35",
+    "work": "作品0",
+    "branch": "南馆",
+    "restricted": true
+  },
+  {
+    "id": "副本36",
+    "work": "作品1",
+    "branch": "河馆",
+    "restricted": false
+  },
+  {
+    "id": "副本37",
+    "work": "作品2",
+    "branch": "湾馆",
+    "restricted": false
+  },
+  {
+    "id": "副本38",
+    "work": "作品3",
+    "branch": "桥馆",
+    "restricted": false
+  },
+  {
+    "id": "副本39",
+    "work": "作品4",
+    "branch": "园馆",
+    "restricted": false
+  }
+]

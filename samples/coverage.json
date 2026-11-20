@@ -1,0 +1,282 @@
+[
+  {
+    "branch": "西馆",
+    "week": "2026-06-01",
+    "complete": true
+  },
+  {
+    "branch": "西馆",
+    "week": "2026-06-08",
+    "complete": true
+  },
+  {
+    "branch": "西馆",
+    "week": "2026-06-15",
+    "complete": true
+  },
+  {
+    "branch": "西馆",
+    "week": "2026-06-22",
+    "complete": true
+  },
+  {
+    "branch": "西馆",
+    "week": "2026-06-29",
+    "complete": true
+  },
+  {
+    "branch": "西馆",
+    "week": "2026-07-06",
+    "complete": true
+  },
+  {
+    "branch": "西馆",
+    "week": "2026-07-13",
+    "complete": true
+  },
+  {
+    "branch": "东馆",
+    "week": "2026-06-01",
+    "complete": true
+  },
+  {
+    "branch": "东馆",
+    "week": "2026-06-08",
+    "complete": true
+  },
+  {
+    "branch": "东馆",
+    "week": "2026-06-15",
+    "complete": true
+  },
+  {
+    "branch": "东馆",
+    "week": "2026-06-22",
+    "complete": true
+  },
+  {
+    "branch": "东馆",
+    "week": "2026-06-29",
+    "complete": true
+  },
+  {
+    "branch": "东馆",
+    "week": "2026-07-06",
+    "complete": true
+  },
+  {
+    "branch": "东馆",
+    "week": "2026-07-13",
+    "complete": true
+  },
+  {
+    "branch": "北馆",
+    "week": "2026-06-01",
+    "complete": true
+  },
+  {
+    "branch": "北馆",
+    "week": "2026-06-08",
+    "complete": true
+  },
+  {
+    "branch": "北馆",
+    "week": "2026-06-15",
+    "complete": true
+  },
+  {
+    "branch": "北馆",
+    "week": "2026-06-22",
+    "complete": true
+  },
+  {
+    "branch": "北馆",
+    "week": "2026-06-29",
+    "complete": true
+  },
+  {
+    "branch": "北馆",
+    "week": "2026-07-06",
+    "complete": true
+  },
+  {
+    "branch": "北馆",
+    "week": "2026-07-13",
+    "complete": true
+  },
+  {
+    "branch": "南馆",
+    "week": "2026-06-01",
+    "complete": true
+  },
+  {
+    "branch": "南馆",
+    "week": "2026-06-08",
+    "complete": true
+  },
+  {
+    "branch": "南馆",
+    "week": "2026-06-15",
+    "complete": true
+  },
+  {
+    "branch": "南馆",
+    "week": "2026-06-22",
+    "complete": true
+  },
+  {
+    "branch": "南馆",
+    "week": "2026-06-29",
+    "complete": true
+  },
+  {
+    "branch": "南馆",
+    "week": "2026-07-06",
+    "complete": true
+  },
+  {
+    "branch": "南馆",
+    "week": "2026-07-13",
+    "complete": true
+  },
+  {
+    "branch": "河馆",
+    "week": "2026-06-01",
+    "complete": true
+  },
+  {
+    "branch": "河馆",
+    "week": "2026-06-08",
+    "complete": true
+  },
+  {
+    "branch": "河馆",
+    "week": "2026-06-15",
+    "complete": true
+  },
+  {
+    "branch": "河馆",
+    "week": "2026-06-22",
+    "complete": true
+  },
+  {
+    "branch": "河馆",
+    "week": "2026-06-29",
+    "complete": true
+  },
+  {
+    "branch": "河馆",
+    "week": "2026-07-06",
+    "complete": true
+  },
+  {
+    "branch": "河馆",
+    "week": "2026-07-13",
+    "complete": true
+  },
+  {
+    "branch": "湾馆",
+    "week": "2026-06-01",
+    "complete": true
+  },
+  {
+    "branch": "湾馆",
+    "week": "2026-06-08",
+    "complete": true
+  },
+  {
+    "branch": "湾馆",
+    "week": "2026-06-15",
+    "complete": true
+  },
+  {
+    "branch": "湾馆",
+    "week": "2026-06-22",
+    "complete": true
+  },
+  {
+    "branch": "湾馆",
+    "week": "2026-06-29",
+    "complete": true
+  },
+  {
+    "branch": "湾馆",
+    "week": "2026-07-06",
+    "complete": true
+  },
+  {
+    "branch": "湾馆",
+    "week": "2026-07-13",
+    "complete": true
+  },
+  {
+    "branch": "桥馆",
+    "week": "2026-06-01",
+    "complete": true
+  },
+  {
+    "branch": "桥馆",
+    "week": "2026-06-08",
+    "complete": true
+  },
+  {
+    "branch": "桥馆",
+    "week": "2026-06-15",
+    "complete": false
+  },
+  {
+    "branch": "桥馆",
+    "week": "2026-06-22",
+    "complete": true
+  },
+  {
+    "branch": "桥馆",
+    "week": "2026-06-29",
+    "complete": true
+  },
+  {
+    "branch": "桥馆",
+    "week": "2026-07-06",
+    "complete": true
+  },
+  {
+    "branch": "桥馆",
+    "week": "2026-07-13",
+    "complete": true
+  },
+  {
+    "branch": "园馆",
+    "week": "2026-06-01",
+    "complete": true
+  },
+  {
+    "branch": "园馆",
+    "week": "2026-06-08",
+    "complete": true
+  },
+  {
+    "branch": "园馆",
+    "week": "2026-06-15",
+    "complete": true
+  },
+  {
+    "branch": "园馆",
+    "week": "2026-06-22",
+    "complete": true
+  },
+  {
+    "branch": "园馆",
+    "week": "2026-06-29",
+    "complete": true
+  },
+  {
+    "branch": "园馆",
+    "week": "2026-07-06",
+    "complete": true
+  },
+  {
+    "branch": "园馆",
+    "week": "2026-07-13",
+    "complete": true
+  }
+]
