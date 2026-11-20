@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "阅000",
+    "household": "户000",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2",
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅001",
+    "household": "户001",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅002",
+    "household": "户002",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅003",
+    "household": "户003",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅004",
+    "household": "户004",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1",
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅005",
+    "household": "户005",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅006",
+    "household": "户006",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅007",
+    "household": "户007",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅008",
+    "household": "户008",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2",
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅009",
+    "household": "户009",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅010",
+    "household": "户010",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅011",
+    "household": "户011",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅012",
+    "household": "户012",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1",
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅013",
+    "household": "户013",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅014",
+    "household": "户014",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅015",
+    "household": "户015",
+    "opens_week": "2026-06-01",
+    "deadline_week": "2026-06-08",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅016",
+    "household": "户016",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3",
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅017",
+    "household": "户017",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅018",
+    "household": "户018",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅019",
+    "household": "户019",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅020",
+    "household": "户020",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2",
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅021",
+    "household": "户021",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅022",
+    "household": "户022",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅023",
+    "household": "户023",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅024",
+    "household": "户024",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3",
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅025",
+    "household": "户025",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅026",
+    "household": "户026",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅027",
+    "household": "户027",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅028",
+    "household": "户028",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2",
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅029",
+    "household": "户029",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅030",
+    "household": "户030",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅031",
+    "household": "户031",
+    "opens_week": "2026-06-08",
+    "deadline_week": "2026-06-15",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅032",
+    "household": "户032",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4",
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅033",
+    "household": "户033",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅034",
+    "household": "户034",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅035",
+    "household": "户035",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅036",
+    "household": "户036",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3",
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅037",
+    "household": "户037",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅038",
+    "household": "户038",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅039",
+    "household": "户039",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅040",
+    "household": "户040",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4",
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅041",
+    "household": "户041",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅042",
+    "household": "户042",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅043",
+    "household": "户043",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅044",
+    "household": "户044",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3",
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅045",
+    "household": "户045",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅046",
+    "household": "户046",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅047",
+    "household": "户047",
+    "opens_week": "2026-06-15",
+    "deadline_week": "2026-06-22",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅048",
+    "household": "户048",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0",
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅049",
+    "household": "户049",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅050",
+    "household": "户050",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅051",
+    "household": "户051",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅052",
+    "household": "户052",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4",
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅053",
+    "household": "户053",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅054",
+    "household": "户054",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅055",
+    "household": "户055",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅056",
+    "household": "户056",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0",
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅057",
+    "household": "户057",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅058",
+    "household": "户058",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅059",
+    "household": "户059",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅060",
+    "household": "户060",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4",
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅061",
+    "household": "户061",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅062",
+    "household": "户062",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅063",
+    "household": "户063",
+    "opens_week": "2026-06-22",
+    "deadline_week": "2026-06-29",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅064",
+    "household": "户064",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1",
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅065",
+    "household": "户065",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅066",
+    "household": "户066",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅067",
+    "household": "户067",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅068",
+    "household": "户068",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0",
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅069",
+    "household": "户069",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅070",
+    "household": "户070",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅071",
+    "household": "户071",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅072",
+    "household": "户072",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1",
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅073",
+    "household": "户073",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅074",
+    "household": "户074",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅075",
+    "household": "户075",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅076",
+    "household": "户076",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0",
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅077",
+    "household": "户077",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅078",
+    "household": "户078",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅079",
+    "household": "户079",
+    "opens_week": "2026-06-29",
+    "deadline_week": "2026-07-06",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅080",
+    "household": "户080",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2",
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅081",
+    "household": "户081",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅082",
+    "household": "户082",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅083",
+    "household": "户083",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅084",
+    "household": "户084",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1",
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅085",
+    "household": "户085",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅086",
+    "household": "户086",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅087",
+    "household": "户087",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅088",
+    "household": "户088",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2",
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "西馆",
+      "东馆"
+    ],
+    "min_complete_floor": 1
+  },
+  {
+    "id": "阅089",
+    "household": "户089",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "东馆",
+      "北馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅090",
+    "household": "户090",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "北馆",
+      "南馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅091",
+    "household": "户091",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      },
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      }
+    ],
+    "pickup": [
+      "南馆",
+      "河馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅092",
+    "household": "户092",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      },
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1",
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "河馆",
+      "湾馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅093",
+    "household": "户093",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品0",
+        "accepted": [
+          "作品0"
+        ]
+      },
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      }
+    ],
+    "pickup": [
+      "湾馆",
+      "桥馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅094",
+    "household": "户094",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品1",
+        "accepted": [
+          "作品1"
+        ]
+      },
+      {
+        "preferred": "作品3",
+        "accepted": [
+          "作品3"
+        ]
+      }
+    ],
+    "pickup": [
+      "桥馆",
+      "园馆"
+    ],
+    "min_complete_floor": 0
+  },
+  {
+    "id": "阅095",
+    "household": "户095",
+    "opens_week": "2026-07-06",
+    "deadline_week": "2026-07-13",
+    "works": [
+      {
+        "preferred": "作品2",
+        "accepted": [
+          "作品2"
+        ]
+      },
+      {
+        "preferred": "作品4",
+        "accepted": [
+          "作品4"
+        ]
+      }
+    ],
+    "pickup": [
+      "园馆",
+      "西馆"
+    ],
+    "min_complete_floor": 0
+  }
+]

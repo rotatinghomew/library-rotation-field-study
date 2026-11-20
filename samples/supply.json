@@ -1,0 +1,162 @@
+[
+  {
+    "copy": "副本00",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "西馆"
+  },
+  {
+    "copy": "副本01",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "东馆"
+  },
+  {
+    "copy": "副本04",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "河馆"
+  },
+  {
+    "copy": "副本05",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "湾馆"
+  },
+  {
+    "copy": "副本08",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "西馆"
+  },
+  {
+    "copy": "副本09",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "东馆"
+  },
+  {
+    "copy": "副本12",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "河馆"
+  },
+  {
+    "copy": "副本13",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "湾馆"
+  },
+  {
+    "copy": "副本16",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "西馆"
+  },
+  {
+    "copy": "副本17",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "东馆"
+  },
+  {
+    "copy": "副本20",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "河馆"
+  },
+  {
+    "copy": "副本21",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "湾馆"
+  },
+  {
+    "copy": "副本24",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "西馆"
+  },
+  {
+    "copy": "副本25",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "东馆"
+  },
+  {
+    "copy": "副本28",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "河馆"
+  },
+  {
+    "copy": "副本29",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "湾馆"
+  },
+  {
+    "copy": "副本32",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "西馆"
+  },
+  {
+    "copy": "副本33",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "东馆"
+  },
+  {
+    "copy": "副本36",
+    "kind": "续期",
+    "start_week": "2026-06-29",
+    "until_week": "2026-07-13",
+    "received_week": "2026-07-06",
+    "handler": "河馆"
+  },
+  {
+    "copy": "副本37",
+    "kind": "归还待核",
+    "earliest_week": "2026-06-29",
+    "latest_week": "2026-07-06",
+    "received_week": "2026-07-06",
+    "handler": "湾馆"
+  }
+]

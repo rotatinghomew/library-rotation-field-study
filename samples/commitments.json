@@ -3,12 +3,14 @@
     "copy": "副本09",
     "due": "2026-07-06",
     "kind": "读者预订",
-    "destination": "河馆"
+    "destination": "河馆",
+    "household": "户004"
   },
   {
     "copy": "副本12",
     "due": "2026-07-13",
     "kind": "已签收轮转",
-    "destination": "南馆"
+    "destination": "南馆",
+    "household": "户003"
   }
 ]

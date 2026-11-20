@@ -4,7 +4,7 @@
 
 ## 资料
 
-`samples/` 中每个文件都是独立的 UTF-8 JSON 文档：`groups`、`households`、`copies`、`logs`、`commitments`、`floor`、`coverage`、`window_weeks`。日期是当地日历日期。空值表示没有对应观测或状态资料，不是数值零。
+`samples/` 中每个文件都是独立的 UTF-8 JSON 文档：`groups`、`households`、`copies`、`logs`、`requests`、`supply`、`commitments`、`floor`、`coverage`、`options`。日期是当地日历日期。空值表示没有对应观测或状态资料，不是数值零。
 
 week 指周一起始。联组分配表给出安排周、方案和可能代取的相邻联组。日志中的 receipt_week 是馆方收到记录的周。households.home 为试验前登记；copies.restricted 禁止跨馆调动，不阻止原馆借阅。coverage 说明馆方资料是否完整。
 
