@@ -35,3 +35,8 @@ class SampleTests(unittest.TestCase):
         commitments = {row['copy'] for row in self.data['commitments']}
         self.assertTrue(any(move['copy'] in commitments for option in self.data['options'] for move in option['moves']))
         self.assertTrue(any(row['kind']=='续期' and row['start_week'] < row['received_week'] and row['copy'] in copies for row in self.data['supply']))
+        by_request = {row['id']:row for row in self.data['requests']}
+        for row in self.data['fulfillments']:
+            request = by_request[row['request']]
+            self.assertIn(row['pickup'],request['pickup'])
+            self.assertTrue(request['opens_week'] <= row['day'] < request['deadline_week'])
