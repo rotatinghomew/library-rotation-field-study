@@ -23,3 +23,15 @@ class SampleTests(unittest.TestCase):
         households = {row['id']: row['home'] for row in self.data['households']}
         self.assertTrue(any(row['kind'] == '馆际代取' and row['branch'] != households[row['household']] for row in self.data['logs']))
         self.assertTrue(any(row['receipt_week'] > row['week'] for row in self.data['logs']))
+
+    def test_reading_cycles_and_copy_obligations(self):
+        works = {row['work'] for row in self.data['copies']}
+        copies = {row['id']: row for row in self.data['copies']}
+        self.assertTrue(any(len(item['accepted']) > 1 for request in self.data['requests'] for item in request['works']))
+        for request in self.data['requests']:
+            self.assertLess(request['opens_week'], request['deadline_week'])
+            for item in request['works']:
+                self.assertLessEqual(set(item['accepted']), works)
+        commitments = {row['copy'] for row in self.data['commitments']}
+        self.assertTrue(any(move['copy'] in commitments for option in self.data['options'] for move in option['moves']))
+        self.assertTrue(any(row['kind']=='续期' and row['start_week'] < row['received_week'] and row['copy'] in copies for row in self.data['supply']))
